@@ -3,7 +3,7 @@
 An easy-to-use **Tkinter GUI** for inpainting selected regions of an image using **[simple-lama-inpainting](https://github.com/advimman/lama)**.  
 You can draw bounding boxes on an image, and the app will remove/inpaint those areas using LaMa’s powerful deep learning model.
 
-**you can remove water mark or anything !!**
+**you can remove watermarks or anything !!**
 
 ---
 
