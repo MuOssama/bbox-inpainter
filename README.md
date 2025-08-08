@@ -26,7 +26,7 @@ Below are example results from the app.
 | Original | Selections | Inpainted |
 |----------|------------|-----------|
 | ![demo1](DEMO/demo1_original.png) | ![demo1_boxes](DEMO/demo1_bbox.png) | ![demo1_result](DEMO/demo1_output.png) |
-| ![demo2](DEMO/demo2_original.png) | ![demo2_boxes](DEMO/demo2_box.png) | ![demo2_result](DEMO/demo2_output.png) |
+| ![demo2](DEMO/demo2_original.png) | ![demo2_boxes](DEMO/demo2_bbox.png) | ![demo2_result](DEMO/demo2_output.png) |
 
 
 
